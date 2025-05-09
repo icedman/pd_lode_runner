@@ -1,0 +1,7 @@
+name=Lode Runner
+author=Marvin Sanchez
+description=Lode Runner
+bundleID=com.bitesize.LodeRunner
+imagePath=launcher
+version=1.0
+buildNumber=1
